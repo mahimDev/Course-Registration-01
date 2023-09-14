@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "img": " https://i.ibb.co/GPwQ8yJ/Rectangle-2-1.png",
+      "course_name": "Web Development Fundamentals",
+      "details": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+      "price": 99.99,
+      "credit": 13
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/5WJnQzg/Rectangle-2.png ",
+      "course_name": "Python Programming for Beginners",
+      "details": "Get started with Python programming from scratch.",
+      "price": 79.99,
+      "credit": 5
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/rFq1jDt/Rectangle-2-2.png",
+      "course_name": "Data Science with R",
+      "details": "Explore data analysis and visualization with the R programming language.",
+      "price": 129.99,
+      "credit": 6
+    },
+    {
+      "id": 4,
+      "img": "  https://i.ibb.co/1dTjBJw/Rectangle-2-3.png",
+      "course_name": "Machine Learning Foundations",
+      "details": "Build a strong foundation in machine learning algorithms and techniques.",
+      "price": 149.99,
+      "credit": 12
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/bQT5KPf/Rectangle-2-5.png",
+      "course_name": "JavaScript Advanced Techniques",
+      "details": "Master advanced JavaScript concepts and techniques for web development.",
+      "price": 89.99,
+      "credit": 2
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/jJxBN8K/Rectangle-2-4.png",
+      "course_name": "Mobile App Development with React Native",
+      "details": "Create cross-platform mobile apps using React Native.",
+      "price": 159.99,
+      "credit": 4
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/V3PH10s/Rectangle-2-6.png",
+      "course_name": "Frontend Frameworks: React, Vue, Angular",
+      "details": "Learn popular frontend frameworks and their usage.",
+      "price": 109.99,
+      "credit": 3
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/Y8Kq38M/Rectangle-3.png",
+      "course_name": "Cybersecurity Fundamentals",
+      "details": "Understand the basics of cybersecurity and threat mitigation.",
+      "price": 119.99,
+      "credit": 3
+    },
+    {
+      "id": 9,
+      "img": " https://i.ibb.co/hCnrgPB/Rectangle-3-1.png",
+      "course_name": "Digital Marketing Strategies",
+      "details": "Explore digital marketing tactics and strategies for online success.",
+      "price": 94.99,
+      "credit": 2
+    }
+  ]
+  
