@@ -27,16 +27,12 @@ function App() {
       const total = credit + value.credit
       const remin = remaining - value.credit
       if(total > 20){
-        alert('credit not found')
+        Swal.fire('Sorry, you cannt take more 20 credits')
       }else{
         setRemaining(remin)
          setCredit(total)
 
-      /*   if(remin < 0){
-          alert('remaining alert')
-        }else{
-          setRemaining(remin)
-        } */
+   
          
       }
     }
