@@ -1,8 +1,8 @@
-# React + Vite
+<!-- <<<<< Add at least 3 Project features  >>>>> -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The three features of my project are:
+1: Each card cannot be clicked multiple times.  Multiple clicks will show a model.
+2: Total credits should not exceed 20.  If it goes above 20 then a warning modal will show.
+3: Total Credit will be subtracted from Remaining Credit.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- <<<<< Discuss how you managed the state in your assignment project.  >>>>> -->
