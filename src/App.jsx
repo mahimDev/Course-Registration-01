@@ -46,7 +46,7 @@ function App() {
 
   return (
     <>
-            <h1>Course Registration</h1>
+            <h1 className='heading'>Course Registration</h1>
 
    <div className='main-container'>
   

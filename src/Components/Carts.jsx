@@ -4,7 +4,7 @@ import './Carts/Carts.css';
 const Carts = ({firstValue,handleButtonClick}) => {
     return (
         <div >
-            <div className="carts-container">
+            <div >
             <Cart firstValue={firstValue}
             handleButtonClick={handleButtonClick}
             ></Cart>

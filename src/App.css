@@ -1,13 +1,16 @@
 #root {
-  max-width: 1280px;
+  max-width: 1400px;
   margin: 0 auto;
-  padding: 2rem;
+  /* padding: 2rem; */
   text-align: center;
 }
 .main-container{
   display: flex;
   justify-content: space-around;
   gap: 20px;
+}
+.heading{
+  font-weight: 700;
 }
 .logo {
   height: 6em;

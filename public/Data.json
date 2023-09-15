@@ -5,7 +5,7 @@
       "course_name": "Web Development Fundamentals",
       "details": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
       "price": 99.99,
-      "credit": 13
+      "credit": 5
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "course_name": "Data Science with R",
       "details": "Explore data analysis and visualization with the R programming language.",
       "price": 129.99,
-      "credit": 6
+      "credit": 5
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "course_name": "Machine Learning Foundations",
       "details": "Build a strong foundation in machine learning algorithms and techniques.",
       "price": 149.99,
-      "credit": 12
+      "credit": 5 
     },
     {
       "id": 5,

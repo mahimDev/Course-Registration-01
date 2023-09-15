@@ -3,7 +3,7 @@ import './Cart.css';
 const Cart = ({firstValue,handleButtonClick}) => {
     
     return (
-       <div>
+       <div className='mahim'>
 {
     firstValue.map(data=>    <div key={data.id} className="course-cart">
     <img src={data.img} alt="" />
