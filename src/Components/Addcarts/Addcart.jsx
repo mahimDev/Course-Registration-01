@@ -4,7 +4,7 @@ const Addcart = ({secondValue,credit,remaining}) => {
 
     return (
         <div  className='remaining-section'>
-            <h2>Remaining : {remaining}</h2>
+            <h2>Remaining : {remaining} hr</h2>
             <hr />
             <h2>Course Name </h2>
             <hr />
@@ -14,7 +14,7 @@ const Addcart = ({secondValue,credit,remaining}) => {
            }
           </ol>
           <hr />
-          <p>Total Credit :{credit} </p>
+          <p>Total Credit :{credit} hr </p>
         </div>
     );
 };

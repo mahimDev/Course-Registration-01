@@ -31,12 +31,8 @@ function App() {
       }else{
         setRemaining(remin)
          setCredit(total)
-
-   
-         
       }
     }
- 
 
   }
 

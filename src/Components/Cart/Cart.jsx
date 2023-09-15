@@ -1,5 +1,6 @@
 import './Cart.css';
-
+import {BiSolidMoviePlay } from 'react-icons/bi';
+import {BsCurrencyDollar } from 'react-icons/bs';
 const Cart = ({firstValue,handleButtonClick}) => {
     
     return (
@@ -10,8 +11,8 @@ const Cart = ({firstValue,handleButtonClick}) => {
     <h4>{data.course_name}</h4>
     <p>{data.details} </p>
        <div className="price-div">
-           <p>Price : $ {data.price} </p>
-           <p>Credit : {data.credit} hr</p>
+           <p> <BsCurrencyDollar />Price : $ {data.price} </p>
+           <p> <BiSolidMoviePlay /> Credit : {data.credit} hr</p>
        </div>
        <button onClick={()=>handleButtonClick(data)}>Select</button>
       
