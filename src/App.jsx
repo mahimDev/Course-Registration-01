@@ -12,7 +12,7 @@ function App() {
   const [credit, setCredit] = useState(0)
   const [remaining, setRemaining] = useState(20)
   useEffect(()=>{
-    fetch('../public/Data.json')
+    fetch('Data.json')
     .then(res=>res.json())
     .then(data=>setFirstValue(data))
   },[])
