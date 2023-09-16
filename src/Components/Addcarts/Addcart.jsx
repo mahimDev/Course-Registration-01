@@ -1,6 +1,6 @@
 
 import './Addcart.css'
-const Addcart = ({secondValue,credit,remaining}) => {
+const Addcart = ({secondValue,credit,remaining,totalPrice}) => {
 
     return (
         <div  className='remaining-section'>
@@ -10,11 +10,13 @@ const Addcart = ({secondValue,credit,remaining}) => {
             <hr />
           <ol>
           {
-            secondValue.map(data=>  <li key={data.id}  > {data.course_name}</li>)
+            secondValue.map(data=>  <li key={data.id} > {data.course_name}</li>)
            }
           </ol>
           <hr />
           <p>Total Credit :{credit} hr </p>
+          <hr />
+          <p>Total Price : {totalPrice}</p>
         </div>
     );
 };

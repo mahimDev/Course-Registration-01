@@ -7,8 +7,6 @@ The three features of my project are:
 
 <!-- <<<<< Discuss how you managed the state in your assignment project.  >>>>> -->
 
-
-
 In my assignment project, I implemented a robust state management system using five distinct states, each serving a specific purpose to ensure smooth functionality. These states were carefully designed to enhance the user experience and facilitate the core features of the application.
 
 1. Courses State:
